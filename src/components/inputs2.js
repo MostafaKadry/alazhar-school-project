@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
-const Inputs = (props) => {
+const Inputs2 = (props) => {
   // States
   const [frstInpt, setFrstInpt] = useState(0);
   const [secInpt, setsecInpt] = useState(0);
@@ -14,20 +14,20 @@ const Inputs = (props) => {
   };
 
   // Send data which have recieved as B1 and B2 To App.js file
-  const sendB1datatoApp = () => {
+  const sendB1BdatatoApp = () => {
     if (!isNaN(frstInpt)) {
-      props.renderB1data(frstInpt);
+      props.renderB1Bdata(frstInpt);
     } else {
-      alert("قم بإدخال ارقام فقط في حقل ادخال عدد طلاب نقل ب - الجدول الاول");
+      alert("قم بإدخال ارقام فقط في حقل ادخال عدد طلاب نقل ب - الجدول الثاني");
     }
   };
 
-  const sendB2datatoApp = () => {
+  const sendB2BdatatoApp = () => {
     if (!isNaN(frstInpt)) {
-      props.renderB2data(secInpt);
+      props.renderB2Bdata(secInpt);
     } else {
       alert(
-        " قم بإدخال ارقام فقط في صندوق ادخال عدد طلاب شهادة ب - الجدول الاول"
+        " قم بإدخال ارقام فقط في صندوق ادخال عدد طلاب شهادة ب - الجدول الثاني"
       );
     }
   };
@@ -54,7 +54,7 @@ const Inputs = (props) => {
                 <button
                   type="button"
                   className="btn btn-outline-info"
-                  onClick={sendB1datatoApp}
+                  onClick={sendB1BdatatoApp}
                 >
                   أضغط هنا لعرض النتيجة لنقل ب فقط
                 </button>
@@ -79,7 +79,7 @@ const Inputs = (props) => {
                 <button
                   type="button"
                   className="btn btn-outline-info"
-                  onClick={sendB2datatoApp}
+                  onClick={sendB2BdatatoApp}
                 >
                   أضغط هنا لعرض النتيجة شهادة ب فقط
                 </button>
@@ -92,4 +92,4 @@ const Inputs = (props) => {
   );
 };
 
-export default Inputs;
+export default Inputs2;
