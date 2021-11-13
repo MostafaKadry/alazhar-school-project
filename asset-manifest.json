@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alazhar-school-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/alazhar-school-project/static/js/main.28d26ead.chunk.js",
-    "main.js.map": "/alazhar-school-project/static/js/main.28d26ead.chunk.js.map",
+    "main.js": "/alazhar-school-project/static/js/main.f8406829.chunk.js",
+    "main.js.map": "/alazhar-school-project/static/js/main.f8406829.chunk.js.map",
     "runtime-main.js": "/alazhar-school-project/static/js/runtime-main.cd1d0f07.js",
     "runtime-main.js.map": "/alazhar-school-project/static/js/runtime-main.cd1d0f07.js.map",
     "static/css/2.383c0125.chunk.css": "/alazhar-school-project/static/css/2.383c0125.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.cfd10232.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.28d26ead.chunk.js"
+    "static/js/main.f8406829.chunk.js"
   ]
 }
