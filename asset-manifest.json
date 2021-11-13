@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alazhar-school-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/alazhar-school-project/static/js/main.28d26ead.chunk.js",
+    "main.js.map": "/alazhar-school-project/static/js/main.28d26ead.chunk.js.map",
+    "runtime-main.js": "/alazhar-school-project/static/js/runtime-main.cd1d0f07.js",
+    "runtime-main.js.map": "/alazhar-school-project/static/js/runtime-main.cd1d0f07.js.map",
+    "static/css/2.383c0125.chunk.css": "/alazhar-school-project/static/css/2.383c0125.chunk.css",
+    "static/js/2.cfd10232.chunk.js": "/alazhar-school-project/static/js/2.cfd10232.chunk.js",
+    "static/js/2.cfd10232.chunk.js.map": "/alazhar-school-project/static/js/2.cfd10232.chunk.js.map",
+    "index.html": "/alazhar-school-project/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/alazhar-school-project/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/alazhar-school-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.cfd10232.chunk.js.LICENSE.txt": "/alazhar-school-project/static/js/2.cfd10232.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1d0f07.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.cfd10232.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.28d26ead.chunk.js"
+  ]
+}
